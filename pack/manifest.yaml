@@ -1,0 +1,5 @@
+---
+manifest_version: 1
+description: This is a config pack to build the Collapsed Data Center Fabric with Juniper Apstra Juniper Validated Design (JVD). 
+supported_apstra_versions:
+  - 5.1.0
