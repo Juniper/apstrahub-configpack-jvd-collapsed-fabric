@@ -7,5 +7,7 @@ this JVD.  You can also choose your IP and ASN address ranges.
 To complete the deployment once it is built, you will need to:
 
 1 - Assign your chosen systems (and onboard them from Apstra if not done already) to the blueprint.
+
 2 - Ensure your cabling map is accurate, either by performing the "Fetch LLDP discovered data" action, or by manually updating the link names.
+
 3 - Perform the Commit.
